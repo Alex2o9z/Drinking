@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Drinking</string>
+
+    <!--Login Activity-->
+    <string name="title_login">SIGN IN</string>
+    <string name="caption_login">sign in to your account</string>
+    <string name="edit_text_email">Email</string>
+    <string name="edit_text_password">Password</string>
+    <string name="button_login">Sign In</string>
+    <string name="have_no_account">Have no account? <b>Sign Up</b>.</string>
+
+    <!--Register Activity-->
+    <string name="title_register">SIGN UP</string>
+    <string name="caption_register">Sign up your new account</string>
+    <string name="edit_text_confirm_password">Confirm Password</string>
+    <string name="edit_text_firstname">First Name</string>
+    <string name="edit_text_lastname">Last Name</string>
+    <string name="button_register">Sign Up</string>
+    <string name="already_have_account">Already have account? <b>Sign In</b>.</string>
+
+    <!--Main  Activity-->
+    <string name="logged_in">You are signed up as Email</string>
+    <string name="email_text">Email</string>
+    <string name="name_text">Name</string>
+
+    <!--Sign Out-->
+    <string name="button_logout">Sign Out</string>
+
+</resources>
